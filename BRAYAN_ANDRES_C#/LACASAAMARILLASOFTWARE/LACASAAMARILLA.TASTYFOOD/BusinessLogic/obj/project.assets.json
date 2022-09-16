@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OjosdeBuho\\Desktop\\Brayanramirez.art\\SISTEMAS ESTUDIO\\C#POO EJERCICOIS\\LACASAAMARILLASOFTWARE\\LACASAAMARILLA.TASTYFOOD\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\OjosdeBuho\\Desktop\\Brayanramirez.art\\SISTEMAS ESTUDIO\\C#POO EJERCICOIS\\BRAYAN_ANDRES_C#\\LACASAAMARILLASOFTWARE\\LACASAAMARILLA.TASTYFOOD\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "C:\\Users\\OjosdeBuho\\Desktop\\Brayanramirez.art\\SISTEMAS ESTUDIO\\C#POO EJERCICOIS\\LACASAAMARILLASOFTWARE\\LACASAAMARILLA.TASTYFOOD\\BusinessLogic\\BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\OjosdeBuho\\Desktop\\Brayanramirez.art\\SISTEMAS ESTUDIO\\C#POO EJERCICOIS\\BRAYAN_ANDRES_C#\\LACASAAMARILLASOFTWARE\\LACASAAMARILLA.TASTYFOOD\\BusinessLogic\\BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\OjosdeBuho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OjosdeBuho\\Desktop\\Brayanramirez.art\\SISTEMAS ESTUDIO\\C#POO EJERCICOIS\\LACASAAMARILLASOFTWARE\\LACASAAMARILLA.TASTYFOOD\\BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\OjosdeBuho\\Desktop\\Brayanramirez.art\\SISTEMAS ESTUDIO\\C#POO EJERCICOIS\\BRAYAN_ANDRES_C#\\LACASAAMARILLASOFTWARE\\LACASAAMARILLA.TASTYFOOD\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OjosdeBuho\\AppData\\Roaming\\NuGet\\NuGet.Config",
