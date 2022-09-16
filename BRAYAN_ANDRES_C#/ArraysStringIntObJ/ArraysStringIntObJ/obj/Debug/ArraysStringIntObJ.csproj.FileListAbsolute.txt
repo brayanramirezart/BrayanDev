@@ -1,0 +1,8 @@
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ArraysStringIntObJ\ArraysStringIntObJ\bin\Debug\ArraysStringIntObJ.exe.config
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ArraysStringIntObJ\ArraysStringIntObJ\bin\Debug\ArraysStringIntObJ.exe
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ArraysStringIntObJ\ArraysStringIntObJ\bin\Debug\ArraysStringIntObJ.pdb
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ArraysStringIntObJ\ArraysStringIntObJ\obj\Debug\ArraysStringIntObJ.csproj.AssemblyReference.cache
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ArraysStringIntObJ\ArraysStringIntObJ\obj\Debug\ArraysStringIntObJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ArraysStringIntObJ\ArraysStringIntObJ\obj\Debug\ArraysStringIntObJ.csproj.CoreCompileInputs.cache
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ArraysStringIntObJ\ArraysStringIntObJ\obj\Debug\ArraysStringIntObJ.exe
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ArraysStringIntObJ\ArraysStringIntObJ\obj\Debug\ArraysStringIntObJ.pdb

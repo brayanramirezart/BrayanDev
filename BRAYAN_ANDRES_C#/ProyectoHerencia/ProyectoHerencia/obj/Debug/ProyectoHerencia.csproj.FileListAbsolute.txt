@@ -1,0 +1,16 @@
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe.config
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.pdb
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.AssemblyReference.cache
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.exe
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.pdb
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\BRAYAN_ANDRES_C#\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe.config
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\BRAYAN_ANDRES_C#\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\BRAYAN_ANDRES_C#\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.pdb
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\BRAYAN_ANDRES_C#\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.AssemblyReference.cache
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\BRAYAN_ANDRES_C#\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\BRAYAN_ANDRES_C#\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\BRAYAN_ANDRES_C#\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.exe
+C:\Users\OjosdeBuho\Desktop\Brayanramirez.art\SISTEMAS ESTUDIO\C#POO EJERCICOIS\BRAYAN_ANDRES_C#\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.pdb

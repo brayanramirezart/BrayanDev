@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "LACASAAMARILLA.TASTYFOOD\Models.csproj", "{CCE83D46-AB54-4029-8332-0D385D8107AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{ABA76721-8BA2-44B6-B1A8-046BC60FED26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE83D46-AB54-4029-8332-0D385D8107AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE83D46-AB54-4029-8332-0D385D8107AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE83D46-AB54-4029-8332-0D385D8107AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE83D46-AB54-4029-8332-0D385D8107AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA76721-8BA2-44B6-B1A8-046BC60FED26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA76721-8BA2-44B6-B1A8-046BC60FED26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA76721-8BA2-44B6-B1A8-046BC60FED26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA76721-8BA2-44B6-B1A8-046BC60FED26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2154ED-B67D-4351-8193-178ACE2909CB}
+	EndGlobalSection
+EndGlobal
