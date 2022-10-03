@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ArraysStringIntObJ.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,10 +25,6 @@ namespace ArraysStringIntObJ
             }
             */
 
-
-
-
-
             /*
             // Step 1: Array Declaration
             string[] stringarray;
@@ -44,60 +41,15 @@ namespace ArraysStringIntObJ
             /*
             for (int i = 0; i < stringarray.Length; i++)
             {
-
                 Console.WriteLine(stringarray[i]);
-
             */
 
-                cubiertos[] lacocina = new cubiertos[7];
-                 for (byte i = 0; i < 7; i++)
-                     lacocina[i] = new cubiertos();
-                
-
-            }
-
-
-
+            Cubiertos[] lacocina = new Cubiertos[7];
+            for (byte i = 0; i < 7; i++)
+                lacocina[i] = new Cubiertos();
         }
-
-
-        
-        public class cubiertos
-        {
-
-
-            public cubiertos()
-            {
-                Console.WriteLine("objetos para comer");
-            }
-
-        }
-
-        public class cuchara : cubiertos
-
-        {
-
-            public cuchara()
-            {
-                Console.WriteLine("esta es la cuchara");
-            }
-
-
-        }
-
-        public class tenedor : cubiertos
-
-        {
-
-            public tenedor()
-            {
-                Console.WriteLine("este es el tenedor");
-            }
-
-
-        }
-        
     }
+}
 
 
 
